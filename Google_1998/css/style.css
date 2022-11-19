@@ -1,0 +1,53 @@
+.logo{
+   margin-top: 150px;   
+   width: 350px;    
+   height: 110px;
+   margin-right: auto;
+   margin-left: auto;
+   margin-bottom: 10px;
+}
+.search{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1206px; 
+    background-color: #EEEEEE;
+    margin-bottom: 1px;
+    text-align: center;
+}
+.links {
+    width: 1206px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.leftbox {
+    background-color: #7EE5DA;
+    margin: 1px;
+    float: left;
+    width: 450px;
+    height: 115px;
+    padding-top: 10px;
+}   
+.centerbox {
+    background-color: #70CCC2;
+    margin: 1px;
+    float: left;
+    width: 250px;
+    height: 115px;
+    padding-top: 7px;
+    padding-bottom: 3px;
+    font-size: small;
+
+}
+
+.rightbox {
+    margin: 1px ;
+    float: left;
+    background-color: #62B3AA;
+    width: 500px;
+    height: 115px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
